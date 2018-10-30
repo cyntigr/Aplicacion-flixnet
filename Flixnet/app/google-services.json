@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "10987235379",
+    "firebase_url": "https://flixnet-dam2.firebaseio.com",
+    "project_id": "flixnet-dam2",
+    "storage_bucket": "flixnet-dam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10987235379:android:a42c2055d26e41e1",
+        "android_client_info": {
+          "package_name": "com.example.cyntia.flixnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10987235379-iskul91376nvnu60a1eth4mfai926102.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyntia.flixnet",
+            "certificate_hash": "1b6f723c156df89636f017941ad7b042f077f994"
+          }
+        },
+        {
+          "client_id": "10987235379-to2c7u3psv4k076tamho4e7ofuuqovc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zMiJ_5Oei0I_adjyavgiNRcTPlUKWIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10987235379-to2c7u3psv4k076tamho4e7ofuuqovc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

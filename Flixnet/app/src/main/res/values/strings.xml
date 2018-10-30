@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flixnet</string>
+    <string name="login_label_usuario">Nombre de usuario</string>
+    <string name="login_label_password">Contraseña</string>
+    <string name="login_button_login">Entrar</string>
+    <string name="login_button_register">Registrar</string>
+    <string name="login_error_login">Usuario o clave vacia</string>
+    <string name="error_login">Usuario o clave vacia</string>
+
+        <!-- RegisterActivity -->
+    <string name="register_label_firstName">Nombre</string>
+    <string name="register_label_lastName">Apellidos</string>
+    <string name="register_label_userName">Nombre de usuario</string>
+    <string name="register_label_email">Email</string>
+    <string name="register_label_password">Contraseña</string>
+    <string name="register_label_confirm_password">Confirmar contraseña</string>
+    <string name="register_label_phoneNumber">Teléfono</string>
+    <string name="register_label_alias">Alias</string>
+    <string name="register_button_send">Enviar</string>
+    <string name="register_error_match">Las contraseñas no coinciden</string>
+    <string name="register_error_fill">Debes rellenar todos los campos</string>
+    <string name="register_error_alphabetic"></string>
+    <string name="register_error_alphaNum"></string>
+
+</resources>

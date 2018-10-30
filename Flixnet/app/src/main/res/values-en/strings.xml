@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flixnet</string>
+    <string name="login_label_usuario">User name</string>
+    <string name="login_label_password">Password</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_register">Register</string>
+    <string name="login_error_login">User or password is empty</string>
+    <string name="error_login">User or password incorrect</string>
+
+    <string name="register_label_firstName">First name</string>
+    <string name="register_label_lastName">Last name</string>
+    <string name="register_label_userName">Username</string>
+    <string name="register_label_email">Email</string>
+    <string name="register_label_password">Password</string>
+    <string name="register_label_confirm_password">Confirm password</string>
+    <string name="register_label_phoneNumber">Phone number</string>
+    <string name="register_label_alias">Alias</string>
+    <string name="register_button_send">Send</string>
+    <string name="register_error_match">Passwords do not match</string>
+    <string name="register_error_fill">You must fill all fields</string>
+    <string name="register_error_alphabetic"></string>
+    <string name="register_error_alphaNum"></string>
+</resources>
